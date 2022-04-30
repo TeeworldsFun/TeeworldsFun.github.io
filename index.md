@@ -2,7 +2,7 @@
 
 Website:
 [TeeUniverse-Website](https://teeworldsfun.github.io/teeuniverse-web)
-[TeeChunk-Website](https://github.com/teechunk.github.io)
+[TeeChunk-Website](https://teechunk.github.io)
 
 ## Organizations
 [TeeDream](https://github.com/TeeDreamStudio)
@@ -12,5 +12,5 @@ Website:
 ## Our partners
 
 [StarOnTheSky](https://github.com/StarOnTheSky)
-[ErrorDremueer](https://github.com/ErrorDremueer)
+[ErrorDreemurr](https://github.com/ErrorDreemurr)
 [Ninecloud](https://github.com/Ninecloud)
