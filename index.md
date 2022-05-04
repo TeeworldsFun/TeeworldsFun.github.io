@@ -2,7 +2,7 @@
 
 Website:
 [TeeUniverse-Website](https://teeworldsfun.github.io/teeuniverse-web)
-[TeeChunk-Website](https://teechunk.github.io)
+[TeeChunk-Website](https://teechunk.tk)
 
 ## Organizations
 [TeeDream](https://github.com/TeeDreamStudio)
